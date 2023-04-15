@@ -1,0 +1,7 @@
+terminal = "alacritty"
+browser = "brave-browser-nightly"
+explorer = "alacritty -e lfub"
+launcher = "rofi -show drun"
+window_switcher = "rofi -show window"
+email = "alacritty -e neomutt"
+notes = "obsidian"
